@@ -1,0 +1,25 @@
+Objetos
+------------------------------
+Usuario
+Atríbutos
+	-id
+	-nombre
+	-edad
+	-domicilio
+	-Sexo
+	-idPerro
+	-numeroHijos
+
+perro
+	-id
+	-raza
+	-esterilizado
+	-vacunas
+	-observaciones
+	-edad
+
+Refugio
+	-id
+	-nombreRefugio
+	-ubicacion
+	-trabajador
